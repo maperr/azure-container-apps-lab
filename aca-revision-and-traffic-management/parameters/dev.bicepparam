@@ -13,8 +13,8 @@ param trafficDistribution = [
     latestRevision: true
     weight: 100
   }
-  // {
-  //   revisionName: 'aca-hello-world--tvi6we5'
-  //   weight: 50
-  // }
+  {
+    revisionName: 'aca-hello-world--tvi6we5'
+    weight: 50
+  }
 ]
