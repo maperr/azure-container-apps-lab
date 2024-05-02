@@ -11,10 +11,10 @@ param tags = {
 param trafficDistribution = [
   {
     latestRevision: true
-    weight: 100
+    weight: 50
   }
-  // {
-  //   revisionName: 'aca-hello-world--tvi6we5'
-  //   weight: 50
-  // }
+  {
+    revisionName: 'aca-hello-world--kkysq06'
+    weight: 50
+  }
 ]
