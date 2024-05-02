@@ -14,9 +14,7 @@ param trafficDistribution = [
     weight: 50
   }
   {
-    revisionName: 'aca-hello-world--3h77zdz'
+    revisionName: 'aca-hello-world--tvi6we5'
     weight: 50
   }
 ]
-
-// Command to get revision names: az containerapp revision list --name aca-hello-world --resource-group rg-aca-helloworld-neu-dev --query [].name -o tsv
